@@ -1,0 +1,1 @@
+It's my own ToDoList. Yeah, I know that there are a lot of ToDoList on the web but I've done this not using any tutorial or any similar stuff. When I had any problem and I stuck, I was looking for solves on "stackoverflow.com". I'm really proud of myself :)
